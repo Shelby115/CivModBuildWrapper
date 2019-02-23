@@ -1,5 +1,6 @@
 # CivModBuildWrapper
 Adds the &lt;CompatibleVersions>2.0&lt;/CompatibleVersions> tag to the built .modinfo file automatically.
+[Download it here](https://github.com/Shelby115/CivModBuildWrapper/releases)
 
 # How can this work?
 
