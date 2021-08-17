@@ -1,3 +1,6 @@
+# This is obsolete.
+Eventually, Civilization VI mod tools (ModBuddy) was updated to do this itself, so this is no longer necessary.
+
 # CivModBuildWrapper
 Adds the &lt;CompatibleVersions>2.0&lt;/CompatibleVersions> tag to the built .modinfo file automatically.
 [Download it here](https://github.com/Shelby115/CivModBuildWrapper/releases)
